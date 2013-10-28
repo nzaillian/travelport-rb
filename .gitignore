@@ -18,3 +18,4 @@ tmp
 .rvmrc
 .env
 .DS_Store
+/demo/config.rb

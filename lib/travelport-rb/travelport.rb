@@ -1,4 +1,3 @@
-require "active_support/dependencies/autoload"
 require "savon"
 
 def require_all(rel_path)
@@ -9,4 +8,5 @@ end
 module Travelport
 end
 
+require "configuration"
 require_all "models"
